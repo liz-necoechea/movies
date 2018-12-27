@@ -1,5 +1,5 @@
 {
-	"file": "movies.csv",
+	"file": "https://raw.githubusercontent.com/liz-necoechea/movies/master/movies.csv",
 	"name": "Movies Genres",
 	"header": 0,
 	"separator": ";",
